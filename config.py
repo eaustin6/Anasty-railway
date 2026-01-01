@@ -10,8 +10,6 @@ CMD_SUFFIX = ""
 AUTHORIZED_CHATS = "-1001425944589"
 SUDO_USERS = ""
 DATABASE_URL = "mongodb+srv://hohadagy:cYX0yKvm0CqUFtMo@cluster0.fcltkgy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
-STATUS_LIMIT = 4"
-DATABASE_NAME = ""
 STATUS_LIMIT = 4
 DEFAULT_UPLOAD = "rc"
 STATUS_UPDATE_INTERVAL = 15
